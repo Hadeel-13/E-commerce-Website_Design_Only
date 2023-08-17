@@ -1,0 +1,25 @@
+body,
+h1,
+h2,
+h2,
+h4,
+h5,
+h6,
+caption,
+legend,
+label,
+button,
+a,
+p,
+li,
+input {
+    font-family: "Almarai" !important;
+}
+/* NavBar */
+#account-menu .css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    background-color: #121212 !important;
+}
+/*  */
+.quantity .css-10botns-MuiInputBase-input-MuiFilledInput-input{
+    padding: 2px 4px !important;
+}

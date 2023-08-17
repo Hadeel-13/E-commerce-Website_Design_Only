@@ -1,0 +1,23 @@
+.mySwiper2.swiper {
+    height: 100%;
+    margin: 0;
+}
+.mySwiper2 .swiper-wrapper {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.mySwiper2 .swiper-slide {
+    text-align: center;
+    height: 100%;
+    font-size: 18px;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mySwiper2 .swiper-slide img {
+    display: block;
+    object-fit: cover;
+}
